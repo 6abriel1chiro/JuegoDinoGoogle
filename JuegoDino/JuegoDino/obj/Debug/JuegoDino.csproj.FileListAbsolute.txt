@@ -1,0 +1,10 @@
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\bin\Debug\JuegoDino.exe.config
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\bin\Debug\JuegoDino.exe
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\bin\Debug\JuegoDino.pdb
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.csprojAssemblyReference.cache
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.Form1.resources
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.Properties.Resources.resources
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.csproj.GenerateResource.cache
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.exe
+C:\Users\Gabriel Ichiro\source\repos\JuegoDino\JuegoDino\obj\Debug\JuegoDino.pdb
